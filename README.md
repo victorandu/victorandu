@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Victor
 
-<!--
-**victorandu/victorandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a bilingual student in Business and Administration who is AWS certified in AI, exploring Python, Cloud and AI to build real-world projects.
 
-Here are some ideas to get you started:
+📍 Miami, FL  
+🔗 LinkedIn: www.linkedin.com/in/victor-andujar-55bb05381
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work in Progress
+- Growing my Python abilities
+- Learning Cloud fundamentals
+- Building small AI demos with AWS
+
+## Tools I Use
+- Python
+- AWS
+- Git/GitHub
+- VS Code
+
+## Goals for 2025
+- Start building tech portfolio
+- Upload beginner to intermiadiate projects
+- Keep growing my Python, AI and Cloud skills.
