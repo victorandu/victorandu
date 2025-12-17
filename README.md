@@ -17,7 +17,7 @@ real-world AI systems at the intersection of technology and business.
 - AWS
 - Git/GitHub
 - VS Code
-- - Linux
+- Linux
 - SQL
 
 ## Goals for 2025
