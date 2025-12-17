@@ -1,22 +1,28 @@
 # Hello, I'm Victor
 
-Im a bilingual student in Business and Administration who is AWS certified in AI, exploring Python, Cloud and AI to build real-world projects.
+I'm a bilingual Business & Administration student with AWS certifications in Cloud and AI. 
+I’m building skills in Python, cloud computing, and machine learning to create practical, 
+real-world AI systems at the intersection of technology and business.
 
 📍 Miami, FL  
 🔗 LinkedIn: www.linkedin.com/in/victor-andujar-55bb05381
 
-## Work in Progress
-- Growing my Python abilities
-- Learning Cloud fundamentals
-- Building small AI demos with AWS
+## Currently Learning
+- Strengthening Python fundamentals
+- Learning AWS cloud architecture & services
+- Building small AI and ML demos on AWS
 
 ## Tools I Use
 - Python
 - AWS
 - Git/GitHub
 - VS Code
+- - Linux
+- SQL
 
 ## Goals for 2025
-- Start building tech portfolio
-- Upload beginner to intermiadiate projects
-- Keep growing my Python, AI and Cloud skills.
+- Build a public ML & cloud portfolio
+- Deploy at least one ML model to AWS
+- Gain internship or entry-level cloud/AI experience
+
+
